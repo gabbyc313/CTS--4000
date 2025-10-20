@@ -5,12 +5,12 @@ Abstract: This blog takes a look into how the world is connected by fiber optic 
 
 ## intro
 
-Underwater fiber optic cables! There are so many and yet so few people know about them. So I decided to [map](https://www.google.com/maps/d/u/0/edit?mid=1iKWbHvLQHEoA3LHhRvxYPKgvtukw4X4&ll=13.622467592156205%2C0&z=2) ones that I thought 
+Underwater fiber optic cables! There are so many and yet so few people know about them when it's the thing that mainly brings internet to our world. So I decided to [map](https://www.google.com/maps/d/u/0/edit?mid=1iKWbHvLQHEoA3LHhRvxYPKgvtukw4X4&ll=13.622467592156205%2C0&z=2) ones that I thought 
 were important, interesting, or had a cool shape.  ヽ(•‿•)ノ
 
 To start, I placed the tat-8 cable which was the first underwater optic cable. I did this to link a timeline that I made to 
 my map, almost like I was networking (wink wink). Then I moved on to finding cables with importance, like AAE-1 & TSE-1. 
-After more searching I came to realize that not all cables would have significance to them. So, I moved onto ones that had an 
+After more searching I came to realize that not all cables would have significance to them. So, I transitioned onto ones that had an 
 interesting name to them (POSEIDON) or entertaining shape (SAM-1). It was amusing to find out about future cables to be 
 built, and just how far they are expected to go. “Far north fiber” and “Polar express” set out to cover 29,650 km combined, 
 and basically covers the top half of my!! The future of underwater fiber optic cables is expanding...
@@ -61,7 +61,6 @@ context.
 Compared to the timeline assignment, I had to do more research for this one. Finding where each cable starts, stops and 
 connects, while also having to be selective in which cables I chose. Where on the other hand I just had to pick which piece 
 of information seemed more important in the grand scheme of things for the timeline. 
- 
 
 With the map I was trying to give geographical context to the extensive scale of underwater optic cables, and that even with 
 how little I chose to display there is still global coverage. Meaning that with some envisioning seeing how interconnected 
