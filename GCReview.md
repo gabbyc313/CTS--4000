@@ -58,10 +58,13 @@ Pilsch, Andrew. “Locating the Minimal in Minimal Computing Pedagogy: Minimal C
 
 Communication, style, and polish (5/5)
 - *very well written, i like your communication style and persuasiveness in your writing*
+
 Relevance to special issue theme (3/5)
 - *i feel like the art itself can fit with the theme but the pets themselves are lost on me and i dont see the connection*
+
 Overall originality, creativity, and strength of ideas (4/5)
 - *very good idea, and great way to show it, felt like scrolling down a twitter feed made especially for animals. I've just come across this idea before is all*
+
 Accuracy and completion of Markdown code (2/5)
 - *missing footnotes and the work itself being encoded in markdown, top banner not working because not a file on my computer. metadata done well*
 
