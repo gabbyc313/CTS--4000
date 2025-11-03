@@ -1,6 +1,6 @@
 ![Paws and Hearts Banner](pahbannerfinal.png)
 
-- *Because it's not in my repository i can't open the link*
+- *Because it's not in my repository i can't open the link or view the banner*
 - <img width="981" height="366" alt="image" src="https://github.com/user-attachments/assets/96dafe74-124c-49de-9c2e-889811be84af" />
 
 
@@ -11,18 +11,17 @@
 **Created for:** CTS3030 - Summer Research Project
 **Tags:** Pets, Wellness, Digital Art, Web Design  
 
-- *clear and consice metadata
+- *clear and consice metadata*
 - *i think the date needs to be in "year-month-day"  time format*
 - *"issue" 3*
-- tags are well done
-- if you wanted you could include the bio from your website into the metadata
-- 
+- *tags are well done*
+- *if you wanted you could include the bio from your website into the metadata*
 ---
 
 ### Abstract
 Paws and Hearts is a community-driven minimal computing project that presents a collection of stories and photographs highlighting the mental health and wellness benefits of pet ownership. With stories sent in by real individuals, each contribution is raw and authentic, helping to create a wholesome online space where vulnerability is encouraged. Enhanced by original illustrations and guided by web design and user experience principles, it stands as an online space that seamlessly blends scholarly research and creativity, presenting a potentially sensitive subject matter into a visually immersive digital format.    
 
- - *very compelling
+ - *very compelling, and atratcs the reader to want to continue*
 
 ---
 
@@ -30,6 +29,14 @@ Paws and Hearts is a community-driven minimal computing project that presents a 
 **Blog Post:** [Paws and Hearts: From Theory to Practice](https://melissatuniewicz2.wixsite.com/melissa-tuniewicz1/post/paws-and-hearts-from-theory-to-practice)
 
 ---
+- *i think you were supposed to take a section from your webite and try to encode in in markdown with photos and links embeded, not just a link*
+-  *the webiste and blogs themselves are well done and have an an appealing layout*
+-  *I'm a fan of the original art work you made for the project*
+-  *The links work fine but the work itself isn't in markdown*
+-  *headers are a good size to break up work*
+-  *I like the inclusion of the section breaks, makes differnt segments clear*
+---
+- *
 
 ### **Works Cited**
 
@@ -47,3 +54,16 @@ Pandey, Meghna. “The Power of Pastel Colors in Designing.” *Artwork Flow,* 2
 
 Pilsch, Andrew. “Locating the Minimal in Minimal Computing Pedagogy: Minimal Computing Tools and the Classroom Management of Student Composing Workflows.” *Journal of Educational Media* 49, no. 5 (2024): 769–779. [https://doi.org/10.1080/17439884.2024.240182](https://doi.org/10.1080/17439884.2024.240182).
 
+- *links work fine*
+- *i think you were supposed to use footnotes like [^1] to link your work and citations together. but because you're missing the work and just have a link there is a disconnect*
+
+Communication, style, and polish (5/5)
+- *very well written, i like your communication style and persuasiveness in your writing*
+Relevance to special issue theme (3/5)
+- *i feel like the art itself can fit with the theme but the pets themselves are lost on me and i dont see the connection*
+Overall originality, creativity, and strength of ideas (4/5)
+- *very good idea, and great way to show it, felt like scrolling down a twitter feed made especially for animals. I've just come across this idea before is all*
+Accuracy and completion of Markdown code (2/5)
+- *missing footnotes and the work itself being encoded in markdown, top banner not working because not a file on my computer. metadata done well*
+
+overall: 15/20 - 75%
