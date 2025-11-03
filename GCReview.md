@@ -36,7 +36,6 @@ Paws and Hearts is a community-driven minimal computing project that presents a 
 -  *headers are a good size to break up work*
 -  *I like the inclusion of the section breaks, makes differnt segments clear*
 ---
-- *
 
 ### **Works Cited**
 
