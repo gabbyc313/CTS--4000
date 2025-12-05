@@ -11,8 +11,6 @@ Abstract: This blog takes a look into how the world is connected by fiber optic 
 Underwater fiber optic cables! There are so many and yet few people know about them, which is weird when it's the very thing that brings the internet around our world. So I decided to [map](https://www.google.com/maps/d/u/0/edit?mid=1iKWbHvLQHEoA3LHhRvxYPKgvtukw4X4&ll=13.622467592156205%2C0&z=2) ones that I thought 
 were important, interesting, or had a cool shape!  ヽ(•‿•)ノ
 
-<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1iKWbHvLQHEoA3LHhRvxYPKgvtukw4X4&ehbc=2E312F" width="640" height="480"></iframe>
-
 To start with my map, I placed the tat-8 cable which was actually the first underwater optic cable. I did this to link a [timeline]([https://www.google.com/maps/d/u/0/edit?mid=1iKWbHvLQHEoA3LHhRvxYPKgvtukw4X4&ll=13.622467592156205%2C0&z=2](https://gabbycole841.wixsite.com/phosgold/post/timeline-0)) that I made to 
 my map, almost like I was networking (wink wink). Then I moved on to finding cables with importance, like AAE-1 which connects three continents (Africa, Asia, & Europe). 
 After more searching I came to realize that not all cables would have major significance to them. So, I transitioned onto ones that had an 
