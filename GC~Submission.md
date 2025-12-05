@@ -2,7 +2,7 @@ Title: Submarine Cables ∘˙○˚.•
 Date: 2025-10-15 
 Tags: fiber optics, technology, telecommunications, blog
 Issue: [Popular Science (PopSci)]([https://www.popsci.com/])
-Abstract: This blog takes a look into how the world is connected by fiber optic cables, something most people don't know about. It's made to explain the lengths and innovation humanity took to make the worlds countries accessible to one another. Showing where each cable starts from, the paths they take and where they end.
+Abstract: This blog takes a look into how the world is connected by fiber optic cables, something most people don't know about. It's made to explain the lengths and innovation humanity took to make the world's countries accessible to one another. Showing where each cable starts from, the paths they take and where they end.
 
 # Submarine Cables ∘˙○˚.•
 
@@ -14,7 +14,7 @@ were important, interesting, or had a cool shape!  ヽ(•‿•)ノ
 To start with my map, I placed the tat-8 cable which was actually the first underwater optic cable. I did this to link a [timeline]([https://www.google.com/maps/d/u/0/edit?mid=1iKWbHvLQHEoA3LHhRvxYPKgvtukw4X4&ll=13.622467592156205%2C0&z=2](https://gabbycole841.wixsite.com/phosgold/post/timeline-0)) that I made to 
 my map, almost like I was networking (wink wink). Then I moved on to finding cables with importance, like AAE-1 which connects three continents (Africa, Asia, & Europe). 
 After more searching I came to realize that not all cables would have major significance to them. So, I transitioned onto ones that had an 
-interesting name to them (POSEIDON) or entertaining shape (SAM-1). It was amusing to find out about future cables to be 
+interesting names (POSEIDON) or entertaining shapes (SAM-1). It was amusing to find out about future cables to be 
 built, and just how far they are expected to go. The “Far north fiber” and “Polar express” are set out to cover 29,650 km combine! 
 (basically covering the top half of my map) The future of underwater fiber optic cables is expanding...
 
