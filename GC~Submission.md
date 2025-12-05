@@ -1,7 +1,7 @@
 Title: Submarine Cables ∘˙○˚.•
 Date: 2025-10-15 
 Tags: fiber optics, technology, telecommunications, blog
-Issue: 39 [Science and Technology Studies]([https://www.google.com/maps/d/u/0/edit?mid=1iKWbHvLQHEoA3LHhRvxYPKgvtukw4X4&ll=13.622467592156205%2C0&z=2](https://sciencetechnologystudies.journal.fi/))
+Issue: [Popular Science (PopSci)]([https://www.popsci.com/])
 Abstract: This blog takes a look into how the world is connected by fiber optic cables, something most people don't know about. It's made to explain the lengths and innovation humanity took to make the worlds countries accessible to one another. Showing where each cable starts from, the paths they take and where they end.
 
 # Submarine Cables ∘˙○˚.•
