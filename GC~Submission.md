@@ -2,7 +2,7 @@ Title: Submarine Cables ∘˙○˚.•
 Date: 2025-10-15 
 Tags: fiber optics, technology, telecommunications, blog
 Issue: 39 [Science and Technology Studies]([https://www.google.com/maps/d/u/0/edit?mid=1iKWbHvLQHEoA3LHhRvxYPKgvtukw4X4&ll=13.622467592156205%2C0&z=2](https://sciencetechnologystudies.journal.fi/))
-Abstract: This blog takes a look into how the world is connected by fiber optic cables something most people don't know about.  It's made to explain the lengths and innovation humanity took to make the worlds countries accessible to one another. Showing where each cable starts from, the paths they take and where they end.
+Abstract: This blog takes a look into how the world is connected by fiber optic cables, something most people don't know about. It's made to explain the lengths and innovation humanity took to make the worlds countries accessible to one another. Showing where each cable starts from, the paths they take and where they end.
 
 # Submarine Cables ∘˙○˚.•
 
@@ -28,7 +28,7 @@ built, and just how far they are expected to go. The “Far north fiber” and �
 I was surprised at first to find out how many cables become decommissioned; logically it makes sense with the scale of the 
 projects and amount it would cost, but I’d assume you’d want to finish something like that when you gain nothing but benefits in 
 the end. Another surprise was that some cables become abandoned, some due to the harsh conditions under the water but for 
-others where that's not the case, it takes about 25 years to stop working and they're just left in the sea. (poor turtles) I feel like a good future project someone could look into would be the recycling of these cables or maybe the refurbishings to not lose the materials used. Not surprising, but an “oh” moment was noticing 
+others where that's not the case, it takes about 25 years to stop working and they're just left in the sea. (poor turtles) I feel like a good future project someone could look into would be the recycling of these cables or maybe the refurbishing as to not lose the materials used. Not surprising, but an “oh” moment was noticing 
 how North Korea has no cables connected to it, which just demonstrates how isolated the citizens must be.
 
 ![A screen shot showing no underwater cables connection to North Korea](https://static.wixstatic.com/media/f4640e_1dfb498c3eea40678ba172a46f233cec~mv2.png/v1/fill/w_525,h_408,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/f4640e_1dfb498c3eea40678ba172a46f233cec~mv2.png)
@@ -71,22 +71,22 @@ context.
 
 ## Conclusion
 
-Compared to the timeline assignment, I had to do more research for this one. Finding where each cable starts, stops and 
+Compared to the [timeline]([https://www.google.com/maps/d/u/0/edit?mid=1iKWbHvLQHEoA3LHhRvxYPKgvtukw4X4&ll=13.622467592156205%2C0&z=2](https://gabbycole841.wixsite.com/phosgold/post/timeline-0)) assignment, I had to do more research for this one. Finding where each cable starts, stops and 
 connects, while also having to be selective in which cables I chose. Where on the other hand I just had to pick which piece 
 of information seemed more important in the grand scheme of things for the timeline. 
 
 With the map I was trying to give geographical context to the extensive scale of underwater optic cables, and that even with 
-how little I chose to display there is still global coverage. Meaning that with some envisioning seeing how interconnected 
-the world is becomes eye opening. 
+how little I chose to display there is still global coverage. Meaning that with some envisioning and imagination you can see how interconnected 
+the world is. 
 
-I think I preferred making the map more, the timeline was simple, and I felt like I was more hands on in the creation of 
-this. I also learned more about fiber optic cables of the present and future instead of the past which is better as time only 
+I think I preferred making the map more, the timeline was simple, just plottion down dates and facts. I felt more hands on in the creation of 
+this, like it has really become intellectual property. I also learned more about fiber optic cables of the present and future instead of the past which is better as time only 
 moves forward. 
 
 I didn't include that many pictures because of copyright, but I think my map has enough imagery on it's own.
 
-My biggest help was Submarine cable map, as it told me the landing points of each cable along with the general shape I should 
-make my line in.
+My biggest help was [Submarine Cable Map]([[https://www.google.com/maps/d/u/0/edit?mid=1iKWbHvLQHEoA3LHhRvxYPKgvtukw4X4&ll=13.622467592156205%2C0&z=2](https://gabbycole841.wixsite.com/phosgold/post/timeline-0)](https://www.submarinecablemap.com/)), as it told me the landing points of each cable along with the general shape I should 
+make the line on my map follow.
 
  ---
  
