@@ -18,7 +18,7 @@ interesting name to them (POSEIDON) or entertaining shape (SAM-1). It was amusi
 built, and just how far they are expected to go. The “Far north fiber” and “Polar express” are set out to cover 29,650 km combine! 
 (basically covering the top half of my map) The future of underwater fiber optic cables is expanding...
 
-![Two fiber optic cables under the water branching into seperate directions](https://www.networkworld.com/wp-content/uploads/2024/11/763857-0-20716600-1732729690-shutterstock-1291282390-copy-10@2x.jpg?quality=50&strip=all)
+![Two fiber optic cables under the water branching into separate directions](https://www.networkworld.com/wp-content/uploads/2024/11/763857-0-20716600-1732729690-shutterstock-1291282390-copy-10@2x.jpg?quality=50&strip=all)
 > Undersea cables
 
 ---
@@ -52,7 +52,7 @@ repaired, they are then used for scientific research. So I guess some of the aba
 Making the map was a fun experience, researching helped me to learn where the most common landing points for cables are and 
 new places I didn’t even know existed! Through this exploration I came to have more appreciation for those that make maps, 
 as I would have trouble getting the lines to bend how I want to avoid land, or when the line would discontinue, and I'd have 
-to start over I'd get frustrated. It's a very time-consuming process if you’re going for a certain look, but in the end, I did enjoy seeing my 
+to start over getting frustrated. It's a very time-consuming process if you’re going for a certain look, but in the end, I did enjoy seeing my 
 map unfold into something bigger and the final product was something I am happy with. (⁀ᗢ⁀)
 
 ---
@@ -79,7 +79,7 @@ With the map I was trying to give geographical context to the extensive scale of
 how little I chose to display there is still global coverage. Meaning that with some envisioning and imagination you can see how interconnected 
 the world is. 
 
-I think I preferred making the map more, the timeline was simple, just plottion down dates and facts. I felt more hands on in the creation of 
+I think I preferred making the map more, the timeline was simple, just plotting down dates and facts. I felt more hands on in the creation of 
 this, like it has really become intellectual property. I also learned more about fiber optic cables of the present and future instead of the past which is better as time only 
 moves forward. 
 
